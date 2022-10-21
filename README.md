@@ -29,7 +29,7 @@ I also upload my graduation paper of this project. Please feel free to criticize
 
 我在一个名为 r-Core 的课程中了解了这个基于 rust 的操作系统，通过学习该课程我了解了操作系统中一些核心的原理，包括陷阱、系统调用、页表等。
 
-对 rCore 的贡献者及其工作表示真诚地感谢：
+对 rCore 的贡献者及其工作表示真诚的感谢：
 
 https://rcore-os.cn/rCore-Tutorial-Book-v3/
 
